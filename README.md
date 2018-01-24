@@ -1,2 +1,3 @@
 # hello-world
-Randy
+Randy is coming!
+Hope everything goes well!
